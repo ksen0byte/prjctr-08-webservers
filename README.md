@@ -32,4 +32,6 @@ Please make sure you have the necessary dependencies and Docker installed before
 
 ## Result
 
-When running `./nginx_cache_demo.sh` you should see the following: ![Demo Screenshot](screenshots/demo.png)
+When running `./nginx_cache_demo.sh` you should see the following:
+
+<img src="screenshots/demo.png" width="477" height="568">
