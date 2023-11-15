@@ -29,3 +29,7 @@ To run the project, follow these steps:
 These steps will set up and run the project, including the fine-tuned Nginx caching and cache invalidation features.
 
 Please make sure you have the necessary dependencies and Docker installed before running the project.
+
+## Result
+
+When running `./nginx_cache_demo.sh` you should see the following: ![Demo Screenshot](screenshots/demo.png)

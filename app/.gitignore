@@ -2,4 +2,3 @@
 .bsp/
 out/
 *.iml
-sqlite/db/
